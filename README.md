@@ -57,7 +57,7 @@ app/src/main/java/com/example/gestionetudiants/
 
 1. **Cloner le dépôt**
    ```bash
-   git clone https://github.com/<votre-pseudo>/GestionEtudiants.git
+   git clone https://github.com/salmaaitzidan/GestionEtudiants.git
    ```
 
 2. **Ouvrir dans Android Studio**
